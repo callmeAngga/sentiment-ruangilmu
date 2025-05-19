@@ -1,0 +1,6 @@
+.env
+
+/sentiment-ruangilmu-api
+
+test.py
+upload_to_hub.py
